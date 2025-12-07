@@ -1,0 +1,5 @@
+{
+  "name": "Lain's PDF2PNG",
+  "description": "A high-fidelity client-side PDF to Image converter. Features 1K/2K/4K scaling, custom resolution control, and batch rendering.",
+  "requestFramePermissions": []
+}
