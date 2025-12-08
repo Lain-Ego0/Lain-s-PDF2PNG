@@ -18,3 +18,5 @@ View your app in AI Studio: https://ai.studio/apps/drive/1BTYALiDl65DhNG5GngiC4a
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+You test by：https://lain-s-pdf-2-png-git-main-lain-egos-projects.vercel.app?_vercel_share=AMeijhnLE9ayY1eenOUOnhAdbNxH3bHT
